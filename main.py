@@ -1,3 +1,6 @@
+# Draw Schematic Illustration of Rotating Black Hole #
+# Cross-section
+
 import math
 import matplotlib.pyplot as plt
 

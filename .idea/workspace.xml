@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311c9c21-2bdc-4b41-a713-d6c5cdcc4c38" name="Changes" comment="Schematics Illustration of Rotating Black Hole" />
+    <list default="true" id="311c9c21-2bdc-4b41-a713-d6c5cdcc4c38" name="Changes" comment="Schematics Illustration of Rotating Black Hole">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
